@@ -12,7 +12,7 @@ Click into the colored section and type to enter your intinerary.
 Clicking a "Save" button will save the text in a timeblock to localStorage. It will be preserved on future pageloads.
 
 
-![Preview Image](./assets/images/Page_Preview.PNG)
+![Preview Image](/assets/images/Page_Preview.png)
 
 ### Design and Philosophy:
 This was a fun little project. 
